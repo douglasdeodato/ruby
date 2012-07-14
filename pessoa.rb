@@ -7,3 +7,6 @@ class Pessoa
     puts "ola #{@nome}"
   end
 end
+
+
+test
